@@ -1,194 +1,201 @@
 {
-  "topics": {
-    "data": [
-  {
-    "id": "1",
-    "name": "Headlines",
-    "shortDescription": "News you'll definitely be interested in",
-    "longDescription": "The latest events and announcements from the world of Android development.",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Headlines.svg?alt=media&token=506faab0-617a-4668-9e63-4a2fb996603f",
-    "url": ""
-  },
-  {
-    "id": "2",
-    "name": "UI",
-    "shortDescription": "not including Compose",
-    "longDescription": "Stay up to date on Material Design, Navigation, Text, Paging, Compose, Accessibility (a11y), Internationalization (i18n), Localization (l10n), Animations, Large Screens, Widgets and much more!\n\nTo get Compose specific news, make sure you also follow the Compose topic. ",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_UI.svg?alt=media&token=0ee1842b-12e8-435f-87ba-a5bb02c47594",
-    "url": ""
-  },
-  {
-    "id": "3",
-    "name": "Compose",
-    "shortDescription": "",
-    "longDescription": "All the latest and greatest news on Jetpack Compose - Android’s modern toolkit for building native user interfaces.",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Compose.svg?alt=media&token=9f0228e8-fdf2-45ee-9fd0-7e51fda23b48",
-    "url": ""
-  },
-  {
-    "id": "4",
-    "name": "Architecture",
-    "shortDescription": "",
-    "longDescription": "Stay up-to-date with Android architecture best practices including scalability and modularization. ",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Architecture.svg?alt=media&token=e69ed228-fa91-49ae-9017-c8b7331f4269",
-    "url": ""
-  },
-  {
-    "id": "5",
-    "name": "Android Studio & Tools",
-    "shortDescription": "",
-    "longDescription": "The latest news on Android development tools, including Android Studio, Gradle, device emulators, debugging tools and more.",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Android-Studio.svg?alt=media&token=b28b82dc-5aa1-4098-9eff-deb04636d3ac",
-    "url": ""
-  },
-  {
-    "id": "6",
-    "name": "Testing",
-    "shortDescription": "",
-    "longDescription": "The latest news on testing, including unit and UI testing, and continuous integration.  ",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Testing.svg?alt=media&token=a11533c4-7cc8-4b11-91a3-806158ebf428",
-    "url": ""
-  },
-  {
-    "id": "7",
-    "name": "Performance",
-    "shortDescription": "",
-    "longDescription": "Up-to-date content on optimizing your app performance, including profiling, tracing and jank avoidance.",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Performance.svg?alt=media&token=558fdf02-1918-4527-b13f-323db67e31cc",
-    "url": ""
-  },
-  {
-    "id": "8",
-    "name": "New APIs & Libraries",
-    "shortDescription": "",
-    "longDescription": "Stay up-to-date with new APIs & library releases, including Jetpack.",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_New-APIs-_-Libraries.svg?alt=media&token=8efd12df-6dd9-4b1b-81fd-017a49a866ac",
-    "url": ""
-  },
-  {
-    "id": "9",
-    "name": "Data Storage",
-    "shortDescription": "",
-    "longDescription": "Everything to do with data storage, including Room and DataStore.",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Data-Storage.svg?alt=media&token=c9f78039-f371-4ce1-ba82-2c0c1e20d180",
-    "url": ""
-  },
-  {
-    "id": "10",
-    "name": "Kotlin",
-    "shortDescription": "",
-    "longDescription": "New language features and guidance for getting the best out of Kotlin on Android. ",
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Kotlin.svg?alt=media&token=bdc73380-e80d-47df-8954-d9b61cccacd2",
-    "url": ""
-  }
-]},
-  "newsresources": [
-  {
-    "id": "1",
-    "title": "Android Dev Summit ’22: Coming to you, online and around the world! ⛰️",
-    "content": "Android Dev Summit is back, so join us online or in person — for the first time since 2019 — at locations around the world. We’ll be sharing the sessions live on YouTube in three tracks spread across three weeks.",
-    "url": "https://android-developers.googleblog.com/2022/10/android-dev-summit.html",
-    "headerImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VWQmqQu6wDswls9f_5NpEQnq4eR57g2NwzWvhKItcKtV6rb_Cyo75XSyL6vvmCIo4tzQn-8taNagEp7QG0KU1L4yMqwbYozNMzBMEFxEN2XintAhy5nLI4RQDaOXr8dgiIFdGOBMdl577Ndelzc0tDBzjI6mz7e4MF8_Tn09KWguZi6I-bS5NbJn/w1200-h630-p-k-no-nu/unnamed%20%2816%29.png",
-    "publishDate": "2022-10-04T23:00:00.000Z",
-    "type": "Event 📆",
-    "topics": [
-      "1"
+    "topics": {
+        "data": [
+            {
+                "id": "1",
+                "name": "Headlines",
+                "shortDescription": "News you'll definitely be interested in",
+                "longDescription": "The latest events and announcements from the world of Android development.",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Headlines.svg?alt=media&token=506faab0-617a-4668-9e63-4a2fb996603f",
+                "url": ""
+            },
+            {
+                "id": "2",
+                "name": "UI",
+                "shortDescription": "not including Compose",
+                "longDescription": "Stay up to date on Material Design, Navigation, Text, Paging, Compose, Accessibility (a11y), Internationalization (i18n), Localization (l10n), Animations, Large Screens, Widgets and much more!\n\nTo get Compose specific news, make sure you also follow the Compose topic. ",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_UI.svg?alt=media&token=0ee1842b-12e8-435f-87ba-a5bb02c47594",
+                "url": ""
+            },
+            {
+                "id": "3",
+                "name": "Compose",
+                "shortDescription": "",
+                "longDescription": "All the latest and greatest news on Jetpack Compose - Android’s modern toolkit for building native user interfaces.",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Compose.svg?alt=media&token=9f0228e8-fdf2-45ee-9fd0-7e51fda23b48",
+                "url": ""
+            },
+            {
+                "id": "4",
+                "name": "Architecture",
+                "shortDescription": "",
+                "longDescription": "Stay up-to-date with Android architecture best practices including scalability and modularization. ",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Architecture.svg?alt=media&token=e69ed228-fa91-49ae-9017-c8b7331f4269",
+                "url": ""
+            },
+            {
+                "id": "5",
+                "name": "Android Studio & Tools",
+                "shortDescription": "",
+                "longDescription": "The latest news on Android development tools, including Android Studio, Gradle, device emulators, debugging tools and more.",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Android-Studio.svg?alt=media&token=b28b82dc-5aa1-4098-9eff-deb04636d3ac",
+                "url": ""
+            },
+            {
+                "id": "6",
+                "name": "Testing",
+                "shortDescription": "",
+                "longDescription": "The latest news on testing, including unit and UI testing, and continuous integration.  ",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Testing.svg?alt=media&token=a11533c4-7cc8-4b11-91a3-806158ebf428",
+                "url": ""
+            },
+            {
+                "id": "7",
+                "name": "Performance",
+                "shortDescription": "",
+                "longDescription": "Up-to-date content on optimizing your app performance, including profiling, tracing and jank avoidance.",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Performance.svg?alt=media&token=558fdf02-1918-4527-b13f-323db67e31cc",
+                "url": ""
+            },
+            {
+                "id": "8",
+                "name": "New APIs & Libraries",
+                "shortDescription": "",
+                "longDescription": "Stay up-to-date with new APIs & library releases, including Jetpack.",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_New-APIs-_-Libraries.svg?alt=media&token=8efd12df-6dd9-4b1b-81fd-017a49a866ac",
+                "url": ""
+            },
+            {
+                "id": "9",
+                "name": "Data Storage",
+                "shortDescription": "",
+                "longDescription": "Everything to do with data storage, including Room and DataStore.",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Data-Storage.svg?alt=media&token=c9f78039-f371-4ce1-ba82-2c0c1e20d180",
+                "url": ""
+            },
+            {
+                "id": "10",
+                "name": "Kotlin",
+                "shortDescription": "",
+                "longDescription": "New language features and guidance for getting the best out of Kotlin on Android. ",
+                "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Kotlin.svg?alt=media&token=bdc73380-e80d-47df-8954-d9b61cccacd2",
+                "url": ""
+            }
+        ]
+    },
+    "newsresources": [
+        {
+            "id": "1",
+            "title": "Android Dev Summit ’22: Coming to you, online and around the world! ⛰️",
+            "content": "Android Dev Summit is back, so join us online or in person — for the first time since 2019 — at locations around the world. We’ll be sharing the sessions live on YouTube in three tracks spread across three weeks.",
+            "url": "https://android-developers.googleblog.com/2022/10/android-dev-summit.html",
+            "headerImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1VWQmqQu6wDswls9f_5NpEQnq4eR57g2NwzWvhKItcKtV6rb_Cyo75XSyL6vvmCIo4tzQn-8taNagEp7QG0KU1L4yMqwbYozNMzBMEFxEN2XintAhy5nLI4RQDaOXr8dgiIFdGOBMdl577Ndelzc0tDBzjI6mz7e4MF8_Tn09KWguZi6I-bS5NbJn/w1200-h630-p-k-no-nu/unnamed%20%2816%29.png",
+            "publishDate": "2022-10-04T23:00:00.000Z",
+            "type": "Event 📆",
+            "topics": [
+                "1"
+            ],
+            "authors": [
+                "64"
+            ]
+        },
+        {
+            "id": "2",
+            "title": "The new Google Pixel Watch is here  — start building for Wear OS! ⌚",
+            "content": "We launched the Google Pixel Watch, powered by Wear OS 3.5, at the Made by Google event — the perfect device to showcase apps built with Compose for Wear OS. With Compose for Wear OS, the Tiles Material library, and the tools in Android Studio Dolphin, it’s now simpler and more efficient than ever to make apps for WearOS.",
+            "url": "https://android-developers.googleblog.com/2022/10/the-new-google-pixel-watch-is-here.html",
+            "headerImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH63icac2kmydOI8Fs2I09KiuRA3GUo2pfZ1Wpf0M5JIEoVQ8dj9LYSl8jpxSQlmlsUVXoeXbwN4UbHMCf5p0M7FHh_EXzMeFRAJ-6feI9-7eIyhBmtGZSD5o-MItwFLH_ESi15Cxd01AlznWaGy9WDqhK0NWtMQwiWELg3xE1I7hba-_7eVqs747V/w1200-h630-p-k-no-nu/WhasNewinPixelDevices_Social.png",
+            "publishDate": "2022-10-06T23:00:00.000Z",
+            "type": "Article 📚",
+            "topics": [
+                "1",
+                "3",
+                "19"
+            ],
+            "authors": [
+
+            ]
+        },
+        {
+            "id": "3",
+            "title": "Listen to our major Text to Speech upgrades for 64 bit devices 💬",
+            "content": "An upgrade to Speech Services by Google is rolling out to 64-bit Android devices via Google Play over the next few weeks, providing clearer, more natural voices. All 421 voices in 67 languages are being upgraded with a new voice model and synthesizer. The post includes more on this update, including demonstrations of some voice upgrades, along with guidance on how to use text to speech in your projects.",
+            "url": "https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html",
+            "headerImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrHro6d3BTw7ZZ4IXgfb6_8aESB7-SsWfelDSSInZVamiMSnYpBZzGBaZBBrWxWwYgLqOHuOtroGvGjxrwzdUkhjwuIvM1u6chIblGKS1gQ6JVkjXr-Vztyk2zoYb1ylvhNgLgC5q6M-7LaiXT1xnAT96DvkPx89APNb8JEaz-1mnMRcfaOYYBHzQL/w1200-h630-p-k-no-nu/Text%20to%20Speech%20-%20Social%20-%201024x512.png",
+            "publishDate": "2022-09-27T23:00:00.000Z",
+            "type": "Article 📚",
+            "topics": [
+                "14"
+            ],
+            "authors": [
+                "66",
+                "67"
+            ]
+        },
+        {
+            "id": "4",
+            "title": "MAD Skills Compose: Powerful Toolkit",
+            "content": "Learn about the powerful toolkit of UI components that ship with Compose enabling you to build rich UIs and interactions.",
+            "url": "https://medium.com/androiddevelopers/compose-toolkit-8d3651228764",
+            "headerImageUrl": "https://miro.medium.com/max/1200/1*3FZeNmAPZDYUCmgL0cBXoA.png",
+            "publishDate": "2022-09-29T23:00:00.000Z",
+            "type": "Article 📚",
+            "topics": [
+                "3"
+            ],
+            "authors": [
+                "68"
+            ]
+        },
+        {
+            "id": "5",
+            "title": "MAD Skills Compose: Accelerate development with tooling",
+            "content": "Learn how to accelerate your Compose development process with a dive into Android Studio tooling support, including live templates, gutter icons for drawables and colors, composable preview functions, multipreview, preview on device, live edits of literals, and the Layout Inspector.",
+            "url": "https://medium.com/androiddevelopers/compose-tooling-42621bd8719b",
+            "headerImageUrl": "https://miro.medium.com/max/1200/1*WVUBQsNgePqQxmrHjaID4g.png",
+            "publishDate": "2022-10-06T23:00:00.000Z",
+            "type": "Article 📚",
+            "topics": [
+                "3"
+            ],
+            "authors": [
+                "68"
+            ]
+        },
+        {
+            "id": "6",
+            "title": "Deep Links Crash Course: Part 3 - Troubleshooting",
+            "content": "In part 3 of the Deep Links Crash Course you'll learn how to diagnose and debug common issues with deep links using command line tools and the Android Debug Bridge (ADB).",
+            "url": "https://www.youtube.com/watch?v=OAxJ2kWG4ZI",
+            "headerImageUrl": "https://i.ytimg.com/vi/OAxJ2kWG4ZI/maxresdefault.jpg",
+            "publishDate": "2022-09-29T23:00:00.000Z",
+            "type": "Video 📺",
+            "topics": [
+                "2",
+                "5"
+            ],
+            "authors": [
+
+            ]
+        },
+        {
+            "id": "7",
+            "title": "Deep Links Crash Course: Part 4 - Deep links for your business",
+            "content": "Part 4 of the Deep Links Crash Course explores Deep links for your business, covering the importance and benefits of implementing deep links for your app, your users, and your business, including success stories and how App Links provide an optimal experience for users.",
+            "url": "https://www.youtube.com/watch?v=UvMIswgsJF8",
+            "headerImageUrl": "https://i.ytimg.com/vi/UvMIswgsJF8/maxresdefault.jpg",
+            "publishDate": "2022-10-05T23:00:00.000Z",
+            "type": "Video 📺",
+            "topics": [
+                "2",
+                "5"
+            ],
+            "authors": [
+
+            ]
+        }
     ],
-    "authors": [
-      "64"
-    ]
-  },
-  {
-    "id": "2",
-    "title": "The new Google Pixel Watch is here  — start building for Wear OS! ⌚",
-    "content": "We launched the Google Pixel Watch, powered by Wear OS 3.5, at the Made by Google event — the perfect device to showcase apps built with Compose for Wear OS. With Compose for Wear OS, the Tiles Material library, and the tools in Android Studio Dolphin, it’s now simpler and more efficient than ever to make apps for WearOS.",
-    "url": "https://android-developers.googleblog.com/2022/10/the-new-google-pixel-watch-is-here.html",
-    "headerImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH63icac2kmydOI8Fs2I09KiuRA3GUo2pfZ1Wpf0M5JIEoVQ8dj9LYSl8jpxSQlmlsUVXoeXbwN4UbHMCf5p0M7FHh_EXzMeFRAJ-6feI9-7eIyhBmtGZSD5o-MItwFLH_ESi15Cxd01AlznWaGy9WDqhK0NWtMQwiWELg3xE1I7hba-_7eVqs747V/w1200-h630-p-k-no-nu/WhasNewinPixelDevices_Social.png",
-    "publishDate": "2022-10-06T23:00:00.000Z",
-    "type": "Article 📚",
-    "topics": [
-      "1",
-      "3",
-      "19"
-    ],
-    "authors": []
-  },
-  {
-    "id": "3",
-    "title": "Listen to our major Text to Speech upgrades for 64 bit devices 💬",
-    "content": "An upgrade to Speech Services by Google is rolling out to 64-bit Android devices via Google Play over the next few weeks, providing clearer, more natural voices. All 421 voices in 67 languages are being upgraded with a new voice model and synthesizer. The post includes more on this update, including demonstrations of some voice upgrades, along with guidance on how to use text to speech in your projects.",
-    "url": "https://android-developers.googleblog.com/2022/09/listen-to-our-major-text-to-speech-upgrades-for-64-bit-devices.html",
-    "headerImageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrHro6d3BTw7ZZ4IXgfb6_8aESB7-SsWfelDSSInZVamiMSnYpBZzGBaZBBrWxWwYgLqOHuOtroGvGjxrwzdUkhjwuIvM1u6chIblGKS1gQ6JVkjXr-Vztyk2zoYb1ylvhNgLgC5q6M-7LaiXT1xnAT96DvkPx89APNb8JEaz-1mnMRcfaOYYBHzQL/w1200-h630-p-k-no-nu/Text%20to%20Speech%20-%20Social%20-%201024x512.png",
-    "publishDate": "2022-09-27T23:00:00.000Z",
-    "type": "Article 📚",
-    "topics": [
-      "14"
-    ],
-    "authors": [
-      "66",
-      "67"
-    ]
-  },
-  {
-    "id": "4",
-    "title": "MAD Skills Compose: Powerful Toolkit",
-    "content": "Learn about the powerful toolkit of UI components that ship with Compose enabling you to build rich UIs and interactions.",
-    "url": "https://medium.com/androiddevelopers/compose-toolkit-8d3651228764",
-    "headerImageUrl": "https://miro.medium.com/max/1200/1*3FZeNmAPZDYUCmgL0cBXoA.png",
-    "publishDate": "2022-09-29T23:00:00.000Z",
-    "type": "Article 📚",
-    "topics": [
-      "3"
-    ],
-    "authors": [
-      "68"
-    ]
-  },
-  {
-    "id": "5",
-    "title": "MAD Skills Compose: Accelerate development with tooling",
-    "content": "Learn how to accelerate your Compose development process with a dive into Android Studio tooling support, including live templates, gutter icons for drawables and colors, composable preview functions, multipreview, preview on device, live edits of literals, and the Layout Inspector.",
-    "url": "https://medium.com/androiddevelopers/compose-tooling-42621bd8719b",
-    "headerImageUrl": "https://miro.medium.com/max/1200/1*WVUBQsNgePqQxmrHjaID4g.png",
-    "publishDate": "2022-10-06T23:00:00.000Z",
-    "type": "Article 📚",
-    "topics": [
-      "3"
-    ],
-    "authors": [
-      "68"
-    ]
-  },
-  {
-    "id": "6",
-    "title": "Deep Links Crash Course: Part 3 - Troubleshooting",
-    "content": "In part 3 of the Deep Links Crash Course you'll learn how to diagnose and debug common issues with deep links using command line tools and the Android Debug Bridge (ADB).",
-    "url": "https://www.youtube.com/watch?v=OAxJ2kWG4ZI",
-    "headerImageUrl": "https://i.ytimg.com/vi/OAxJ2kWG4ZI/maxresdefault.jpg",
-    "publishDate": "2022-09-29T23:00:00.000Z",
-    "type": "Video 📺",
-    "topics": [
-      "2",
-      "5"
-    ],
-    "authors": []
-  },
-  {
-    "id": "7",
-    "title": "Deep Links Crash Course: Part 4 - Deep links for your business",
-    "content": "Part 4 of the Deep Links Crash Course explores Deep links for your business, covering the importance and benefits of implementing deep links for your app, your users, and your business, including success stories and how App Links provide an optimal experience for users.",
-    "url": "https://www.youtube.com/watch?v=UvMIswgsJF8",
-    "headerImageUrl": "https://i.ytimg.com/vi/UvMIswgsJF8/maxresdefault.jpg",
-    "publishDate": "2022-10-05T23:00:00.000Z",
-    "type": "Video 📺",
-    "topics": [
-      "2",
-      "5"
-    ],
-    "authors": []
-  }
-],
-  "profile": {
-    "name": "typicode"
-  }
+    "profile": {
+        "name": "typicode"
+    }
 }
