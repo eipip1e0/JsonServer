@@ -1,5 +1,6 @@
 {
-  "topics": [
+  "topics": {
+    data: [
   {
     "id": "1",
     "name": "Headlines",
@@ -80,7 +81,7 @@
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/now-in-android.appspot.com/o/img%2Fic_topic_Kotlin.svg?alt=media&token=bdc73380-e80d-47df-8954-d9b61cccacd2",
     "url": ""
   }
-],
+]},
   "newsresources": [
   {
     "id": "1",
